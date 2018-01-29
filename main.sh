@@ -21,6 +21,6 @@ case $wybor in
 	"3") bash usun.sh;;
 	"4") bash ukryj.sh;;
 	"5") bash pokaz.sh;;
-	"6") bash koniec.sh;;
+	"6") echo "Koniec"
 
 esac
